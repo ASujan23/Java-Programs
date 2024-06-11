@@ -24,6 +24,6 @@ public class AppletSkel extends Applet
   }
   public void paint(Graphics g) 
   {
-     g.drawString("Aditya Institute Of Technology And Management",40,50);
+     g.drawString("Welcome",40,50);
   }
 }  
