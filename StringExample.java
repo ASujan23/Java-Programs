@@ -4,10 +4,10 @@ public class StringExample
 {
 	public static void main(String[] args) 
 	{
-		String s1 = "Aditya";
+		String s1 = "A";
 		String s2 = "Engineering";
 		String s3 = new String("College");
-		StringBuffer sb = new StringBuffer("AITAM");
+		StringBuffer sb = new StringBuffer("AS");
 		
 		System.out.println(s1==s2);
 		System.out.println(s2==s3);
