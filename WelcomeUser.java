@@ -11,6 +11,6 @@ class WelcomeUser
 		System.out.println("Enter the User Name:\n");
 		Scanner sc = new Scanner(System.in);
 		String name=sc.nextLine();
-		System.out.println("Welcome "+name+" to our AITAM College");
+		System.out.println("Welcome "+name+" to our group");
 	}
 }
